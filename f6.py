@@ -1,2 +1,2 @@
 // Databricks notebook source
-println("notebook")
+print("notebook")
